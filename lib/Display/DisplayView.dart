@@ -60,7 +60,7 @@ class DisplayView extends StatelessWidget {
         title,
         style: Theme.of(context)
             .textTheme
-            .title
+            .bodyText1
             .copyWith(color: Colors.teal, letterSpacing: 1),
       ),
     );

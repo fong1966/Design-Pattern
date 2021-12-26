@@ -109,7 +109,7 @@ class _MyHomePageState extends State<MyHomePage> {
           Text(
             title,
             softWrap: true,
-            style: Theme.of(context).textTheme.title,
+            style: Theme.of(context).textTheme.bodyText1,
           ),
         ],
       ),
